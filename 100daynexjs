@@ -1,0 +1,109 @@
+###Here's a 100-day roadmap to learning Next.js with a focus on blockchain development:
+
+***Phase 1: Foundation (Days 1–30)
+
+Days 1–10: Introduction to Next.js and JavaScript Fundamentals
+
+Day 1-2: Understand what Next.js is, install Node.js, and set up your development environment.
+
+Day 3-5: Review JavaScript basics (variables, functions, arrays, objects).
+
+Day 6-8: Learn about ES6+ features like arrow functions, destructuring, and async/await.
+
+Day 9-10: Build a basic "Hello World" app in Next.js.
+
+Days 11–20: Core Concepts of Next.js
+
+Day 11-13: Learn about pages, routing, and linking in Next.js.
+
+Day 14-16: Study Next.js' file-based routing, dynamic routes, and nested routes.
+
+Day 17-20: Understand components, layouts, and reusable components.
+
+Days 21–30: Server-Side Rendering (SSR) and API Routes
+
+Day 21-23: Explore SSR and Static Site Generation (SSG) in Next.js.
+
+Day 24-26: Learn about API routes in Next.js and create a simple API.
+
+Day 27-30: Review this phase and create a mini-project using SSR and API routes.
+
+---
+
+***Phase 2: Intermediate Skills (Days 31–60)
+
+Days 31–40: Data Fetching and State Management
+
+Day 31-34: Study data fetching methods in Next.js, like getStaticProps, getServerSideProps.
+
+Day 35-37: Learn about state management in React (using Context API or Zustand).
+
+Day 38-40: Create a mini-project with server-side and client-side data fetching.
+
+Days 41–50: Connecting to Blockchain
+
+Day 41-43: Install and explore web3.js and ethers.js for Ethereum interaction.
+
+Day 44-47: Set up a simple smart contract on a testnet (e.g., Sepolia or Rinkeby).
+
+Day 48-50: Integrate your Next.js app with MetaMask and connect to the blockchain.
+
+Days 51–60: Authentication and User Accounts
+
+Day 51-54: Learn about authentication methods (wallet connect, JWTs, session management).
+
+Day 55-57: Implement basic wallet authentication (e.g., MetaMask login).
+
+Day 58-60: Build a user profile page using wallet-based authentication.
+
+---
+
+***Phase 3: Advanced Concepts (Days 61–90)
+
+Days 61–70: Advanced Routing, SEO, and Optimization
+
+Day 61-64: Study advanced routing concepts in Next.js.
+
+Day 65-67: Learn about SEO in Next.js (meta tags, dynamic head content).
+
+Day 68-70: Optimize app performance and understand image optimization in Next.js.
+
+Days 71–80: Integrating Smart Contracts with Next.js
+
+Day 71-75: Write a simple smart contract (e.g., ERC-20 token) and deploy it on a testnet.
+
+Day 76-78: Connect the contract with your Next.js frontend, allowing users to interact (like transferring tokens).
+
+Day 79-80: Test and debug the contract integration.
+
+Days 81–90: Deploying to Production
+
+Day 81-84: Learn about deployment options (Vercel, Netlify).
+
+Day 85-87: Deploy a test version of your app.
+
+Day 88-90: Troubleshoot, optimize, and finalize the deployment.
+
+---
+
+***Phase 4: Project and Review (Days 91–100)
+
+Days 91–95: Final Project
+
+Build a decentralized application (dApp) that includes:
+
+Wallet-based login.
+
+Interactions with a smart contract.
+
+Basic transaction history.
+
+Days 96–100: Review and Improve
+
+Day 96-98: Review your project, add documentation, and ensure code is clean.
+
+Day 99-100: Seek feedback, reflect on what you’ve learned, and explore areas for further improvement.
+
+
+**This roadmap should give you a solid foundation in Next.js with a focus on blockchain integration. Let me know if you'd like resources for any specific part!
+
